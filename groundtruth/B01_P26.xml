@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<page xmlns="http://mile.ee.iisc.ernet.in/schemas/ocr_output" skew="0.0" ImageLoc="">
+    <block type="Text" BlockNumber="1" rowStart="349" rowEnd="2265" colStart="552" colEnd="1796">
+        <line LineNumber="1" rowStart="378" rowEnd="423" colStart="552" colEnd="1796">
+            <word unicode="ತಿಕ್ಕಾ" WordNumber="1" doubtfulRecognition="true" rowStart="378" rowEnd="423" colStart="622" colEnd="683"/>
+            <word unicode="ಲಿಂಗ" WordNumber="2" doubtfulRecognition="false" rowStart="378" rowEnd="423" colStart="698" colEnd="768"/>
+            <word unicode="ಪೂಜಾ" WordNumber="3" doubtfulRecognition="false" rowStart="378" rowEnd="423" colStart="784" colEnd="869"/>
+            <word unicode="ಜಂಗಮ" WordNumber="4" doubtfulRecognition="false" rowStart="378" rowEnd="423" colStart="887" colEnd="999"/>
+            <word unicode="ಪೂಚಾ" WordNumber="5" doubtfulRecognition="false" rowStart="378" rowEnd="423" colStart="1015" colEnd="1099"/>
+            <word unicode="ಕೊರುಕ" WordNumber="6" doubtfulRecognition="false" rowStart="378" rowEnd="423" colStart="1117" colEnd="1214"/>
+            <word unicode="ಸೊಳ್ಳೆ." WordNumber="7" doubtfulRecognition="false" rowStart="378" rowEnd="423" colStart="1231" colEnd="1314"/>
+            <word unicode="ಜಾಲ್ಲೆರಿ" WordNumber="8" doubtfulRecognition="false" rowStart="378" rowEnd="423" colStart="1335" colEnd="1432"/>
+            <word unicode="ಮಹಾದೇವಿ" WordNumber="9" doubtfulRecognition="false" rowStart="378" rowEnd="423" colStart="1448" colEnd="1596"/>
+            <word unicode="ರಾಯಾಲೆ" WordNumber="10" doubtfulRecognition="false" rowStart="378" rowEnd="423" colStart="1614" colEnd="1732"/>
+        </line>
+        <line LineNumber="2" rowStart="440" rowEnd="484" colStart="552" colEnd="1796">
+            <word unicode="ಬಾಯ್ಲ" WordNumber="1" colStart="622" colEnd="0"/>
+            <word unicode="ನಾಂವಾಕ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಮಾತ್ರ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಜಾವ್ನು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಆಶ್ಮಿಲಿ." WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಕ್ರಮೇಣ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ರಾಯಾಕ" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಹಿಗ್ಗೆಲೆ" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="ಪೂಜಾ" WordNumber="9" colStart="0" colEnd="0"/>
+            <word unicode="ಜಂಗಮ" WordNumber="10" colStart="0" colEnd="1739"/>
+        </line>
+        <line LineNumber="3" rowStart="500" rowEnd="544" colStart="552" colEnd="1796">
+            <word unicode="ಸೇವಾ" WordNumber="1" colStart="622" colEnd="0"/>
+            <word unicode="ಬೇಜಾರು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಆಯ್ಲೊ." WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ತಾಣೆ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ತಿಕ್ಕಾ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಪ್ರತಿಬಂಧ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಗಾಲುಕ" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಸುರು" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="ಕೆಲ್ಲೆ." WordNumber="9" colStart="0" colEnd="0"/>
+            <word unicode="ಕಡೇರಿ" WordNumber="10" colStart="0" colEnd="0"/>
+            <word unicode="ಏಕ" WordNumber="11" colStart="0" colEnd="0"/>
+            <word unicode="ರಾತ್ರಿ" WordNumber="12" colStart="0" colEnd="1732"/>
+        </line>
+        <line LineNumber="4" rowStart="561" rowEnd="606" colStart="552" colEnd="1796">
+            <word unicode="ತಿಜ್ಜೆ" WordNumber="1" colStart="623" colEnd="0"/>
+            <word unicode="ವೈರಿ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಬಲಾತ್ಕಾರ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಸುದ್ದಾ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಕೆಲ್ಲೆ." WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ತೆದ್ನಾ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ತೀ" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಕೊಪ್ಪುನು" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="ರಾಯಾಲೆ" WordNumber="9" colStart="0" colEnd="0"/>
+            <word unicode="ಘರ" WordNumber="10" colStart="0" colEnd="0"/>
+            <word unicode="ಸೋಣು" WordNumber="11" colStart="0" colEnd="1733"/>
+        </line>
+        <line LineNumber="5" rowStart="621" rowEnd="666" colStart="552" colEnd="1796">
+            <word unicode="ತ್ಯಾಗಮೂರ್ತಿಶಿ" WordNumber="1" colStart="623" colEnd="0"/>
+            <word unicode="ವತ್ತಾ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ತಿಗ್ಗೆಲೆ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ದೀಗು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಕೇಶರಾಶಿ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಆತ್ತ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ತಿಗ್ಗೆಲೆ" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಲಾಜ" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="ರಾಕ್ಚೆ" WordNumber="9" colStart="0" colEnd="0"/>
+            <word unicode="ಆವಂಗಲೆ." WordNumber="10" colStart="0" colEnd="0"/>
+            <word unicode="ತೀ" WordNumber="11" colStart="0" colEnd="1732"/>
+        </line>
+        <line LineNumber="6" rowStart="678" rowEnd="726" colStart="552" colEnd="1796">
+            <word unicode="ಬಸವೇಶ್ವರಾಲೆ" WordNumber="1" colStart="623" colEnd="0"/>
+            <word unicode="ಅನುಭವ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಮಂಟಪಾಯೆತ್ತಾ." WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ತೆದ್ನಾ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಉನ್ಮಾದಿನಿಶಿ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಆಶ್ಯಿಲಿ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಮಹಾದೇವಿಕೆ" WordNumber="7" colStart="0" colEnd="1734"/>
+        </line>
+        <line LineNumber="7" rowStart="743" rowEnd="796" colStart="552" colEnd="1796">
+            <word unicode="ಅಲ್ಲಮ" WordNumber="1" colStart="623" colEnd="0"/>
+            <word unicode="ಪ್ರಭು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ನಾನಾ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ನಮೂನೆರಿ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಪ್ರಶ್ನ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಗಾಲ್ತಾ." WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ತೀ" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಪೂರಾಯಿಪ್ಪಶ್ನೆಕ" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="ಸಮರ್ಪಕ" WordNumber="9" colStart="0" colEnd="0"/>
+            <word unicode="ಉತ್ತರ" WordNumber="10" colStart="0" colEnd="0"/>
+            <word unicode="." WordNumber="11" colStart="0" colEnd="1766"/>
+        </line>
+        <line LineNumber="8" rowStart="792" rowEnd="845" colStart="552" colEnd="1796">
+            <word unicode="ವಚನಾ" WordNumber="1" colStart="623" colEnd="0"/>
+            <word unicode="ಮೂಕಾಂತರ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ದಿತ್ತಾ." WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ತಿಗ್ಗೆಲೆ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ವೀರ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ವಿರಕ್ತಿ," WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಪಕ್ಷ" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಜಾಲ್ಲೆಲೆ" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="ಆಧ್ಯಾತ್ಮಿಕ" WordNumber="9" colStart="0" colEnd="0"/>
+            <word unicode="ವಿಚಾರ," WordNumber="10" colStart="0" colEnd="1730"/>
+        </line>
+        <line LineNumber="9" rowStart="862" rowEnd="919" colStart="552" colEnd="1796">
+            <word unicode="ಅನುಭಾವ" WordNumber="1" colStart="624" colEnd="0"/>
+            <word unicode="(spirutual" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="experience)" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಜಾಲ್ಲೆಲೆ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಜೀವು" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಮ್ಹೋಣು" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಸಕ್ಕಡಿ" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಜನಾಂಕ" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="-" WordNumber="9" colStart="0" colEnd="1786"/>
+        </line>
+        <line LineNumber="10" rowStart="917" rowEnd="965" colStart="552" colEnd="1796">
+            <word unicode="ಕಳ್ತಾ." WordNumber="1" colStart="624" colEnd="0"/>
+            <word unicode="ಮಪಿಮನೆಚೆ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಪ್ರೀತಿಚಿ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಮಹಾದೇವಿ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಅಕ್ಕಾ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಜಾತ್ತಾ." WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಅನುಭವ" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಮಂಟಪಾಂತು," WordNumber="8" colStart="0" colEnd="1731"/>
+        </line>
+        <line LineNumber="11" rowStart="977" rowEnd="1028" colStart="552" colEnd="1796">
+            <word unicode="ಶಿವಶರಣಾಲೆ" WordNumber="1" colStart="624" colEnd="0"/>
+            <word unicode="ಗೋಷ್ಠಿಂತು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ತಿಕ್ಕಾ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಏಕ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ವಿಶಿಷ್ಟ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಸ್ಥಾನ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಆಸ್ಸ." WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ತೀಣೆ" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="ತಿಗ್ಗೆಲೆ" WordNumber="9" colStart="0" colEnd="0"/>
+            <word unicode="ಸರ್ವಸ್ವ" WordNumber="10" colStart="0" colEnd="0"/>
+            <word unicode="ಚೆನ್ನ" WordNumber="11" colStart="0" colEnd="1736"/>
+        </line>
+        <line LineNumber="12" rowStart="1033" rowEnd="1085" colStart="552" colEnd="1796">
+            <word unicode="ಮಲ್ಲಿಕಾರ್ಜುನ" WordNumber="1" colStart="624" colEnd="0"/>
+            <word unicode="ಸ್ವಾಮಿಕ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಅರ್ಪಣೆ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಕೆಲ್ಲಾ." WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಕೌಶಿಕ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ರಾಯಾಕ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಸೋಣು" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಯೆತ್ತರಿ" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="ತಿಕ್ಕಾತಿಗ್ಗೆಲೆ" WordNumber="9" colStart="0" colEnd="0"/>
+            <word unicode="." WordNumber="10" colStart="0" colEnd="1764"/>
+        </line>
+        <line LineNumber="13" rowStart="1102" rowEnd="1145" colStart="552" colEnd="1796">
+            <word unicode="ಚೆನ್ನಮಲ್ಲಿಕಾರ್ಜುನ" WordNumber="1" colStart="624" colEnd="0"/>
+            <word unicode="ಸ್ವಾಮಿ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಬಾಮ್ಮುಣು" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="“ಶರಣ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಸತಿ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="-" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಲಿಂಗಪತಿ”" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಮಳ್ರೆಲೆ" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="ಮಾಧುರ್ಯ" WordNumber="9" colStart="0" colEnd="1735"/>
+        </line>
+        <line LineNumber="14" rowStart="1162" rowEnd="1208" colStart="552" colEnd="1796">
+            <word unicode="ಭಕ್ತಿ." WordNumber="1" colStart="625" colEnd="0"/>
+            <word unicode="ಭಕ್ತಮೀರಾನ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಶ್ರೀ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಕೃಷ್ಣು" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ತಿಗ್ಗೆಲೊ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಬಾಮ್ಮುಣು" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಮ್ಹೋಣು" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಪೂಜಾ" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="ಕೋರ್ನು" WordNumber="9" colStart="0" colEnd="0"/>
+            <word unicode="ಭಕ್ತಾಲೆ" WordNumber="10" colStart="0" colEnd="1736"/>
+        </line>
+        <line LineNumber="15" rowStart="1221" rowEnd="1266" colStart="552" colEnd="1796">
+            <word unicode="ಹೃದಯಾಂತು" WordNumber="1" colStart="625" colEnd="0"/>
+            <word unicode="ಶಾಶ್ವತ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಸ್ಥಾನ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಗೆತ್ಲಾ." WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ತಶ್ಮಿಂಚಿ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ತಮಿಳು" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ನಾಡಾಚೆ" WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಪಾಂಡ್ಯ" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="ರಾಜ್ಯಾ" WordNumber="9" colStart="0" colEnd="0"/>
+            <word unicode="ಆಶ್ಯಿಲೆ" WordNumber="10" colStart="0" colEnd="1736"/>
+        </line>
+        <line LineNumber="16" rowStart="1280" rowEnd="1325" colStart="552" colEnd="1796">
+            <word unicode="ಆಳ್ವಾರ" WordNumber="1" colStart="626" colEnd="0"/>
+            <word unicode="ಮಳ್ಳೆಲೆಂತು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಆಂಡಾಳ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಮಳ್ಳೆಲಿ" WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ಭಕ್ತಿಣಿ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಭಾರಿ" WordNumber="6" colStart="0" colEnd="0"/>
+            <word unicode="ಪ್ರಸಿಧ್ಧ." WordNumber="7" colStart="0" colEnd="0"/>
+            <word unicode="ಹಿಕ್ಕಾ" WordNumber="8" colStart="0" colEnd="0"/>
+            <word unicode="ಗೋದಾದೇವಿ" WordNumber="9" colStart="0" colEnd="1737"/>
+        </line>
+        <line LineNumber="17" rowStart="1340" rowEnd="1384" colStart="552" colEnd="1796">
+            <word unicode="ಮ್ಹೋಣು" WordNumber="1" doubtfulRecognition="false" rowStart="1340" rowEnd="1384" colStart="626" colEnd="745"/>
+            <word unicode="ಆಪ್ಪಯಿತಾಚಿ." WordNumber="2" doubtfulRecognition="false" rowStart="1340" rowEnd="1384" colStart="762" colEnd="940"/>
+            <word unicode="ಹೀಣೆ" WordNumber="3" doubtfulRecognition="false" rowStart="1340" rowEnd="1384" colStart="961" colEnd="1029"/>
+            <word unicode="ಶ್ರೀರಂಗ" WordNumber="4" doubtfulRecognition="false" rowStart="1340" rowEnd="1384" colStart="1047" colEnd="1157"/>
+            <word unicode="ಕ್ಷೇತ್ರಾಚೆ" WordNumber="5" doubtfulRecognition="false" rowStart="1340" rowEnd="1384" colStart="1174" colEnd="1289"/>
+            <word unicode="ಶ್ರೀ" WordNumber="6" doubtfulRecognition="false" rowStart="1340" rowEnd="1384" colStart="1307" colEnd="1348"/>
+            <word unicode="ರಂಗನಾಥ" WordNumber="7" doubtfulRecognition="false" rowStart="1340" rowEnd="1384" colStart="1365" colEnd="1495"/>
+            <word unicode="ಸ್ವಾಮಿಕ" WordNumber="8" doubtfulRecognition="false" rowStart="1340" rowEnd="1384" colStart="1512" colEnd="1614"/>
+            <word unicode="ವಾರ್ಡಿಕ" WordNumber="9" doubtfulRecognition="false" rowStart="1340" rowEnd="1384" colStart="1632" colEnd="1736"/>
+        </line>
+        <line LineNumber="18" rowStart="1401" rowEnd="1444" colStart="552" colEnd="1796">
+            <word unicode="ಕೋರ್ನುಗೆತ್ತಿಲೆ." WordNumber="1" colStart="626" colEnd="0"/>
+            <word unicode="ಹಾಂಗಾಆಮ್ಮಿ" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಮಾಧುರ್ಯಭಾವಾಚೆಪರಾಕಾಷ್ಠ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ವಳಯಿತಾಚಿ," WordNumber="4" colStart="0" colEnd="0"/>
+            <word unicode="ತೀ" WordNumber="5" colStart="0" colEnd="0"/>
+            <word unicode="ಸ್ತುತಿ" WordNumber="6" colStart="0" colEnd="1737"/>
+        </line>
+        <line LineNumber="19" rowStart="1461" rowEnd="1503" colStart="552" colEnd="1796">
+            <word unicode="ನಿಂದೆಕ" WordNumber="1" doubtfulRecognition="false" rowStart="1461" rowEnd="1503" colStart="626" colEnd="715"/>
+            <word unicode="ಬೀನಿ," WordNumber="2" doubtfulRecognition="false" rowStart="1461" rowEnd="1503" colStart="730" colEnd="800"/>
+            <word unicode="ತಿಗ್ಗೆಲೆ" WordNumber="3" doubtfulRecognition="false" rowStart="1461" rowEnd="1503" colStart="821" colEnd="898"/>
+            <word unicode="ಏಕ" WordNumber="4" doubtfulRecognition="false" rowStart="1461" rowEnd="1503" colStart="914" colEnd="957"/>
+            <word unicode="ವಚನ" WordNumber="5" doubtfulRecognition="false" rowStart="1461" rowEnd="1503" colStart="972" colEnd="1048"/>
+            <word unicode="ಆಯ್ಕಯಾಚಿ." WordNumber="6" doubtfulRecognition="false" rowStart="1461" rowEnd="1503" colStart="1063" colEnd="1237"/>
+        </line>
+        <line LineNumber="20" rowStart="1567" rowEnd="1624" colStart="552" colEnd="1796">
+            <word unicode="ವಚನ" WordNumber="1" doubtfulRecognition="false" rowStart="1567" rowEnd="1624" colStart="627" colEnd="702"/>
+            <word unicode="28" WordNumber="2" doubtfulRecognition="false" rowStart="1567" rowEnd="1624" colStart="717" colEnd="758"/>
+            <word unicode="ಬೆಟ್ಟದ" WordNumber="3" doubtfulRecognition="false" rowStart="1567" rowEnd="1624" colStart="860" colEnd="950"/>
+            <word unicode="ಮೇಲೊಂದು" WordNumber="4" doubtfulRecognition="false" rowStart="1567" rowEnd="1624" colStart="964" colEnd="1132"/>
+            <word unicode="ಮನೆಯ" WordNumber="5" doubtfulRecognition="false" rowStart="1567" rowEnd="1624" colStart="1148" colEnd="1254"/>
+            <word unicode="ಮಾಡಿ" WordNumber="6" doubtfulRecognition="false" rowStart="1567" rowEnd="1624" colStart="1269" colEnd="1346"/>
+        </line>
+        <line LineNumber="21" rowStart="1639" rowEnd="1680" colStart="552" colEnd="1796">
+            <word unicode="ಮೃಗಗಳಿಂಜಿದಡೆಂತಯ್ಯ" WordNumber="1" doubtfulRecognition="false" rowStart="1639" rowEnd="1680" colStart="861" colEnd="1178"/>
+        </line>
+        <line LineNumber="22" rowStart="1691" rowEnd="1753" colStart="552" colEnd="1796">
+            <word unicode="ಸಮುದ್ರದ" WordNumber="1" colStart="860" colEnd="0"/>
+            <word unicode="ತಡಿಯಲೊಂದು" WordNumber="2" colStart="0" colEnd="0"/>
+            <word unicode="ಮನೆಯ" WordNumber="3" colStart="0" colEnd="0"/>
+            <word unicode="ಮಾಡಿ" WordNumber="4" colStart="0" colEnd="1428"/>
+        </line>
+        <line LineNumber="23" rowStart="1784" rowEnd="1826" colStart="552" colEnd="1796">
+            <word unicode="ನೊರೆ" WordNumber="1" doubtfulRecognition="false" rowStart="1784" rowEnd="1826" colStart="860" colEnd="931"/>
+            <word unicode="ತೆರೆಗಳಿಗಂಜಿದಡೆಂತಯ್ಯ" WordNumber="2" doubtfulRecognition="false" rowStart="1784" rowEnd="1826" colStart="945" colEnd="1262"/>
+        </line>
+        <line LineNumber="24" rowStart="1857" rowEnd="1916" colStart="552" colEnd="1796">
+            <word unicode="ಸಂತೆಯೊಳಗೊಂದು" WordNumber="1" doubtfulRecognition="true" rowStart="1857" rowEnd="1916" colStart="861" colEnd="1119"/>
+            <word unicode="ಮನೆಯ" WordNumber="2" doubtfulRecognition="false" rowStart="1857" rowEnd="1916" colStart="1134" colEnd="1240"/>
+            <word unicode="ಮಾಡಿ" WordNumber="3" doubtfulRecognition="false" rowStart="1857" rowEnd="1916" colStart="1256" colEnd="1332"/>
+        </line>
+        <line LineNumber="25" rowStart="1930" rowEnd="1972" colStart="552" colEnd="1796">
+            <word unicode="ಶಬ್ದಕ್ಕೆ" WordNumber="1" doubtfulRecognition="true" rowStart="1930" rowEnd="1972" colStart="862" colEnd="948"/>
+            <word unicode="ನಾಚಿದಡೆಂತಯ್ಯ" WordNumber="2" doubtfulRecognition="false" rowStart="1930" rowEnd="1972" colStart="963" colEnd="1180"/>
+        </line>
+        <line LineNumber="26" rowStart="1987" rowEnd="2045" colStart="552" colEnd="1796">
+            <word unicode="ಚೆನ್ನ" WordNumber="1" doubtfulRecognition="false" rowStart="1987" rowEnd="2045" colStart="862" colEnd="919"/>
+            <word unicode="ಮಲ್ಲಿಕಾರ್ಜುನ" WordNumber="2" doubtfulRecognition="false" rowStart="1987" rowEnd="2045" colStart="934" colEnd="1127"/>
+            <word unicode="ದೇವ" WordNumber="3" doubtfulRecognition="false" rowStart="1987" rowEnd="2045" colStart="1142" colEnd="1209"/>
+            <word unicode="ಕೇಳಯ್ಯ" WordNumber="4" doubtfulRecognition="false" rowStart="1987" rowEnd="2045" colStart="1225" colEnd="1331"/>
+        </line>
+        <line LineNumber="27" rowStart="2074" rowEnd="2121" colStart="552" colEnd="1796">
+            <word unicode="ಲೋಕದೊಳಗೆ" WordNumber="1" doubtfulRecognition="false" rowStart="2074" rowEnd="2121" colStart="861" colEnd="1047"/>
+            <word unicode="ಹುಟ್ಟಿದ" WordNumber="2" doubtfulRecognition="false" rowStart="2074" rowEnd="2121" colStart="1061" colEnd="1163"/>
+            <word unicode="ಬಳಿಕ" WordNumber="3" doubtfulRecognition="false" rowStart="2074" rowEnd="2121" colStart="1178" colEnd="1247"/>
+        </line>
+        <line LineNumber="28" rowStart="2194" rowEnd="2224" colStart="552" colEnd="1796">
+            <word unicode="26" WordNumber="1" doubtfulRecognition="false" rowStart="2194" rowEnd="2224" colStart="1172" colEnd="1214"/>
+        </line>
+    </block>
+</page>
