@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <page xmlns="http://mile.ee.iisc.ernet.in/schemas/ocr_output" skew="0.0" ImageLoc="">
-    <block type="Text" BlockNumber="2" rowStart="354" rowEnd="754" colStart="565" colEnd="1494">
+    <block type="Text" BlockNumber="1" rowStart="354" rowEnd="754" colStart="565" colEnd="1494">
         <line LineNumber="1" rowStart="405" rowEnd="462" colStart="565" colEnd="1494">
             <word unicode="ವಚನ" WordNumber="1" colStart="581" colEnd="0"/>
             <word unicode="49" WordNumber="2" colStart="0" colEnd="0"/>
@@ -32,7 +32,7 @@
             <word unicode="ಕರುಣಿಸಯ್ಯ" WordNumber="4" colStart="0" colEnd="1443"/>
         </line>
     </block>
-    <block type="Text" BlockNumber="3" rowStart="785" rowEnd="1062" colStart="585" colEnd="1658">
+    <block type="Text" BlockNumber="2" rowStart="785" rowEnd="1062" colStart="585" colEnd="1658">
         <line LineNumber="6" rowStart="793" rowEnd="838" colStart="585" colEnd="1658">
             <word unicode="ಕೊಂಕಣಿ" WordNumber="1" colStart="585" colEnd="0"/>
             <word unicode="49" WordNumber="2" colStart="0" colEnd="0"/>
@@ -73,7 +73,7 @@
             <word unicode="ಕರೀ" WordNumber="7" colStart="0" colEnd="1426"/>
         </line>
     </block>
-    <block type="Text" BlockNumber="4" rowStart="1083" rowEnd="1432" colStart="559" colEnd="1550">
+    <block type="Text" BlockNumber="3" rowStart="1083" rowEnd="1432" colStart="559" colEnd="1550">
         <line LineNumber="10" rowStart="1104" rowEnd="1148" colStart="559" colEnd="1550">
             <word unicode="ವಚನ" WordNumber="1" colStart="581" colEnd="0"/>
             <word unicode="50" WordNumber="2" colStart="0" colEnd="0"/>
@@ -109,7 +109,7 @@
             <word unicode="ದೇವಾ" WordNumber="5" doubtfulRecognition="false" rowStart="1363" rowEnd="1422" colStart="1276" colEnd="1355"/>
         </line>
     </block>
-    <block type="Text" BlockNumber="5" rowStart="1468" rowEnd="1817" colStart="554" colEnd="1611">
+    <block type="Text" BlockNumber="4" rowStart="1468" rowEnd="1817" colStart="554" colEnd="1611">
         <line LineNumber="15" rowStart="1485" rowEnd="1531" colStart="554" colEnd="1611">
             <word unicode="ಕೊಂಕಣಿ" WordNumber="1" colStart="581" colEnd="0"/>
             <word unicode="50" WordNumber="2" colStart="0" colEnd="0"/>
@@ -150,7 +150,7 @@
             <word unicode="ದೇವಾ." WordNumber="6" colStart="0" colEnd="1405"/>
         </line>
     </block>
-    <block type="Text" BlockNumber="6" rowStart="1853" rowEnd="2289" colStart="524" colEnd="1653">
+    <block type="Text" BlockNumber="5" rowStart="1853" rowEnd="2289" colStart="524" colEnd="1653">
         <line LineNumber="20" rowStart="1858" rowEnd="1899" colStart="524" colEnd="1653">
             <word unicode="ವಚನ" WordNumber="1" colStart="580" colEnd="0"/>
             <word unicode="51" WordNumber="2" colStart="0" colEnd="0"/>

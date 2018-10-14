@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <page xmlns="http://mile.ee.iisc.ernet.in/schemas/ocr_output" skew="0.0" ImageLoc="">
-    <block type="Text" BlockNumber="2" rowStart="337" rowEnd="842" colStart="1187" colEnd="2329">
+    <block type="Text" BlockNumber="1" rowStart="337" rowEnd="842" colStart="1187" colEnd="2329">
         <line LineNumber="1" rowStart="428" rowEnd="470" colStart="1187" colEnd="2329">
             <word unicode="ವಚನ" WordNumber="1" colStart="1218" colEnd="0"/>
             <word unicode="20" WordNumber="2" colStart="0" colEnd="0"/>
@@ -43,7 +43,7 @@
             <word unicode="ಮಿಟಿಯಂತಪ್ಪರಯ್ಯ||" WordNumber="4" colStart="0" colEnd="2212"/>
         </line>
     </block>
-    <block type="Text" BlockNumber="3" rowStart="871" rowEnd="1319" colStart="1183" colEnd="2374">
+    <block type="Text" BlockNumber="2" rowStart="871" rowEnd="1319" colStart="1183" colEnd="2374">
         <line LineNumber="7" rowStart="901" rowEnd="961" colStart="1183" colEnd="2374">
             <word unicode="ಕೊಂಕಣಿ" WordNumber="1" doubtfulRecognition="false" rowStart="901" rowEnd="961" colStart="1211" colEnd="1334"/>
             <word unicode="20" WordNumber="2" doubtfulRecognition="false" rowStart="901" rowEnd="961" colStart="1350" colEnd="1392"/>
@@ -90,7 +90,7 @@
             <word unicode="ಘೆಟ್ಟೊಶೆ" WordNumber="5" colStart="0" colEnd="2076"/>
         </line>
     </block>
-    <block type="Text" BlockNumber="4" rowStart="1356" rowEnd="1787" colStart="1200" colEnd="2285">
+    <block type="Text" BlockNumber="3" rowStart="1356" rowEnd="1787" colStart="1200" colEnd="2285">
         <line LineNumber="13" rowStart="1363" rowEnd="1427" colStart="1200" colEnd="2285">
             <word unicode="ವಚನ" WordNumber="1" colStart="1218" colEnd="0"/>
             <word unicode="21" WordNumber="2" colStart="0" colEnd="0"/>
@@ -133,7 +133,7 @@
             <word unicode="ಸವಿಸಲೇಬೇಕು." WordNumber="4" doubtfulRecognition="false" rowStart="1742" rowEnd="1773" colStart="1803" colEnd="1994"/>
         </line>
     </block>
-    <block type="Text" BlockNumber="5" rowStart="1808" rowEnd="2322" colStart="1200" colEnd="2338">
+    <block type="Text" BlockNumber="4" rowStart="1808" rowEnd="2322" colStart="1200" colEnd="2338">
         <line LineNumber="19" rowStart="1838" rowEnd="1882" colStart="1200" colEnd="2338">
             <word unicode="ಕೊಂಕಣಿ" WordNumber="1" colStart="1219" colEnd="0"/>
             <word unicode="21" WordNumber="2" colStart="0" colEnd="0"/>
