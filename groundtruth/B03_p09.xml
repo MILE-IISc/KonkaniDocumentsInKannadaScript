@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <page xmlns="http://mile.ee.iisc.ernet.in/schemas/ocr_output" skew="0.0" ImageLoc="">
     <block type="Text" BlockNumber="1" rowStart="276" rowEnd="2124" colStart="970" colEnd="2192">
-        <line LineNumber="5" rowStart="323" rowEnd="393" colStart="970" colEnd="2192">
+        <line LineNumber="1" rowStart="323" rowEnd="393" colStart="970" colEnd="2192">
             <word unicode="ಗಾಂಧೀಜಿಲೆ" WordNumber="1" colStart="1091" colEnd="0"/>
             <word unicode="ಹಾತಾಂತು" WordNumber="2" colStart="0" colEnd="0"/>
             <word unicode="ಆಸಿಲೆ" WordNumber="3" colStart="0" colEnd="0"/>
